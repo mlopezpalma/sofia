@@ -6,8 +6,8 @@ Sistema de chat con IA que implementa memoria semántica vectorial usando embedd
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/chat-memoria-vectorial.git
-cd chat-memoria-vectorial
+git clone https://github.com/mlopezpalma/sofia.git
+cd sofia
 
 # 2. Ejecutar instalador automático
 python setup.py
@@ -226,10 +226,8 @@ MIT License
 4. Push (`git push origin feature/nueva`)
 5. Crear Pull Request
 
-## 🆘 Soporte
+## 🆘 Soporte.-- nodisponible 
 
-- Issues: https://github.com/tu-usuario/chat-memoria-vectorial/issues
-- Email: tu-email@ejemplo.com
 
 ---
 
