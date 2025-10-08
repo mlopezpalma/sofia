@@ -1,0 +1,29 @@
+# Entorno virtual
+venv/
+env/
+venv_clean/
+
+# Configuración local
+.env
+
+# Bases de datos
+*.db
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Templates generados
+templates/index.html

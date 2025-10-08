@@ -1,0 +1,13 @@
+# Dependencias principales
+flask==3.0.0
+flask-cors==4.0.0
+requests==2.31.0
+chromadb==0.4.22
+sentence-transformers==2.2.2
+python-dotenv==1.0.0
+
+# Dependencias automáticas (se instalan con las principales)
+# numpy (instalado por sentence-transformers)
+# sqlite3 (incluido en Python)
+# torch (instalado por sentence-transformers)
+# transformers (instalado por sentence-transformers)
